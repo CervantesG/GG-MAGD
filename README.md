@@ -17,4 +17,4 @@ The goal of this lab was to make mouse interactivity when ever the mouse is clic
 
 Fall 2017 MAGD Lab 1
 The first lab of the year was to simply create black and white images to adhere to the them of buildings
-[Link to Code](
+[Link to Code](https://github.com/CervantesG/GG-MAGD/blob/gh-pages/s17magd150lab01_Cervantes.pde)
