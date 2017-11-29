@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+Fall 2017 MAGD Lab 3
+The goal was to use math operators and variables to make shapes expand and shrink so I created a blue ellipse and pink square
+that grow and shrink as they follow the mouse
+[Link to Code](https://github.com/CervantesG/GG-MAGD/blob/gh-pages/f17_magd150_lab03_Cervantes.pde)
 
-You can use the [editor on GitHub](https://github.com/CervantesG/GG-MAGD/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CervantesG/GG-MAGD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fall 2017 MAGD Lab 2
+The goal of this lab was to use the different coding of colors and shapes to adhere to the theme of planets and the solar system
+[Link to Code](
